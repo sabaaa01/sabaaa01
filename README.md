@@ -23,4 +23,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabaaa01&show_icons=true&locale=en&layout=compact" alt="sabaaa01" /></p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sabaaa01&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabaaa01&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabaaa01&theme=github_dark" />
+</p>
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabaaa01&show_icons=true&locale=en" alt="sabaaa01" /></p>
