@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabaaa01" alt="sabaaa01" /></a> </p>
 
-- 🔭 I’m currently working on **Malware Detection System**
-
 - 🌱 I’m currently learning **My Sql and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabaaa01](https://github.com/sabaaa01)
