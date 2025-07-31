@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabaaa01](https://github.com/sabaaa01)
 
-- 💬 Ask me about *java and sql**
+- 💬 Ask me about **java and sql**
 
 - 📫 How to reach me **xsabafatima01@gmail.com**
 
